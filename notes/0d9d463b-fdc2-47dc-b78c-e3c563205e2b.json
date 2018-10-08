@@ -1,0 +1,1 @@
+{"title":"object maniuplation","message":"const object1 = {\n\ta: 'somestring',\n\tb: 42,\n\tc: false\n};\n\nconsole.log(Objects.keys(object1));\n\n//expected Array [a, b, c]","id":"0d9d463b-fdc2-47dc-b78c-e3c563205e2b","date":"2018-10-08T19:03:25.212Z"}
